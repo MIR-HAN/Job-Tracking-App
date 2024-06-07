@@ -1,0 +1,22 @@
+{
+  "jobs": [
+    {
+      "position": "UI Designer",
+      "company": "Xoami",
+      "location": "Seattle",
+      "status": "Offer",
+      "type": "Full-Time",
+      "id": "fafaaaaf-33c5-4ed4-a89e-6fb6e52bf205",
+      "date": "6/7/2024"
+    },
+    {
+      "position": "UI Designer",
+      "company": "Xoami",
+      "location": "usa",
+      "status": "Application",
+      "type": "Full-Time",
+      "id": "e81e7d01-c5d2-407d-bd2c-8f7a52e4f713",
+      "date": "6/7/2024"
+    }
+  ]
+}

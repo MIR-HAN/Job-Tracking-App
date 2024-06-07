@@ -1,0 +1,76 @@
+{
+  "jobs": [
+    {
+      "id": "928e0c50-30a4-43e8-b25a-c0520ce2f487",
+      "position": "Product Menager",
+      "company": "Amazon",
+      "location": "Seattle",
+      "status": "rejected",
+      "type": "Full-Time",
+      "date": "5/21/2024"
+    },
+    {
+      "id": "5ea9d8e6-50dd-4b92-8300-c9b2e5da41db",
+      "position": "Product Manager",
+      "company": "Amazon",
+      "location": "Seattle",
+      "status": "application",
+      "type": "Full-Time",
+      "date": "5/19/2024"
+    },
+    {
+      "id": "ebafebd4-47b5-44c8-a0f5-04297a4b38f7",
+      "position": "Data Scientist",
+      "company": "Facebook",
+      "location": "Menlo Park",
+      "status": "interview",
+      "type": "Full-Time",
+      "date": "5/21/2024"
+    },
+    {
+      "id": "76d14d39-8eab-4382-9c0e-4c4561f2b1cb",
+      "position": "UX/UI Designer",
+      "company": "Apple",
+      "location": "Cupertino",
+      "status": "offer",
+      "type": "Full-Time",
+      "date": "5/22/2024"
+    },
+    {
+      "id": "28d24c47-60f1-4e62-8b86-2c674268a9ac",
+      "position": "Marketing Manager",
+      "company": "Microsoft",
+      "location": "Redmond",
+      "status": "hired",
+      "type": "Full-Time",
+      "date": "5/23/2024"
+    },
+    {
+      "id": "cfd4ed6b-4abf-4e54-a6de-f95f8a4c8b99",
+      "position": "Software Development Engineer",
+      "company": "Netflix",
+      "location": "Los Gatos",
+      "status": "pending",
+      "type": "Full-Time",
+      "date": "5/24/2024"
+    },
+    {
+      "id": "9a4a0e61-18e7-4c3d-b73d-d1d9778e7f26",
+      "position": "Business Analyst",
+      "company": "Uber",
+      "location": "San Francisco",
+      "status": "rejected",
+      "type": "Full-Time",
+      "date": "5/26/2024"
+    },
+    {
+      "id": "4a0aa29e-06a7-4a24-8620-9f29c9c5e783",
+      "position": "Product Manager",
+      "company": "Airbnb",
+      "location": "San Francisco",
+      "status": "offer",
+      "type": "Full-Time",
+      "date": "5/28/2024"
+    }
+  ]
+}
